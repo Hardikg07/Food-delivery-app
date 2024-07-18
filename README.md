@@ -1,2 +1,2 @@
 # Food-delivery-app
-Food delivery app using online payment
+Food delivery app using mern stack.
